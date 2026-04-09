@@ -7,3 +7,5 @@
 * Create another new branch
 * Commit changes from another new branch
 * Resolve merge conflicts
+* Create new branch
+* Commit changes on new branch
